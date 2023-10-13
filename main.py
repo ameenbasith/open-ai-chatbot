@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"  # don't worry, I deleted this already
+openai.api_key = ""  # don't worry, I deleted this already
 
 
 def chat_with_gpt(prompt):
